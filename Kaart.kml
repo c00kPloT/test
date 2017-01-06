@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Pf Wonen</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Pf Wonen</name>
+			<Placemark>
+				<name>Baak van Petten</name>
+				<styleUrl>#icon-1603-880E4F-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.4225566,52.2048466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Elzenhagesingel</name>
+				<styleUrl>#icon-1546-C2185B-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.9323946,52.4051197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gustav Mahlerlaan</name>
+				<styleUrl>#icon-1546-A52714-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.874855199999956,52.33669250000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Anjervallei 33</name>
+				<styleUrl>#icon-1603-FF5252-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.2935035000000425,51.72425779999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Loosduinse Uitleg 52</name>
+				<styleUrl>#icon-1546-E65100-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.233265399999937,52.0519827,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hooiberg 24</name>
+				<styleUrl>#icon-1546-F57C00-nodesc</styleUrl>
+				<Point>
+					<coordinates>6.147355000000061,51.9403163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Van Knobelsdorffplein 76</name>
+				<styleUrl>#icon-1546-F9A825-nodesc</styleUrl>
+				<Point>
+					<coordinates>6.099126100000035,53.10377330000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Raadhuisstraat 43</name>
+				<styleUrl>#icon-1603-FBC02D-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.605847100000005,51.8887225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lavendelstraat 1</name>
+				<styleUrl>#icon-1603-FFD600-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.271673299999975,52.068209,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Amer 16</name>
+				<styleUrl>#icon-1546-FFEA00-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.704012499999976,51.4695153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Marktplein 112</name>
+				<styleUrl>#icon-1546-AFB42B-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.6942222999999785,52.3039129,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>De Maaier 101</name>
+				<styleUrl>#icon-1546-817717-nodesc</styleUrl>
+				<Point>
+					<coordinates>6.451036599999952,52.7208124,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paviusstraat</name>
+				<styleUrl>#icon-1546-558B2F-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.479519400000072,52.16880010000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Damstraat 6</name>
+				<styleUrl>#icon-1546-7CB342-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.397951799999987,52.0807447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tramstraat 15</name>
+				<styleUrl>#icon-1546-0097A7-nodesc</styleUrl>
+				<Point>
+					<coordinates>6.411014000000023,52.1626306,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Appelternhof 4</name>
+				<styleUrl>#icon-1603-006064-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.8467966000000615,51.7898006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Houtwerf 10</name>
+				<styleUrl>#icon-1546-0288D1-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.099733799999967,52.0121778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Veldzuringerf</name>
+				<styleUrl>#icon-1603-01579B-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.4410622,52.004989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zaan 2</name>
+				<styleUrl>#icon-1603-1A237E-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.439628800000037,52.0086379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Papenven 33</name>
+				<styleUrl>#icon-1603-3949AB-nodesc</styleUrl>
+				<Point>
+					<coordinates>6.402519699999971,53.1367392,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vrederustlaan 315</name>
+				<styleUrl>#icon-1546-673AB7-nodesc</styleUrl>
+				<Point>
+					<coordinates>4.271107099999995,52.03672599999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Piusplein</name>
+				<styleUrl>#icon-1546-9C27B0-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.090648399999964,51.5552067,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Amerikalaan 526</name>
+				<styleUrl>#icon-1603-795548-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.092165399999999,52.0717297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Droomtuinlaan 106</name>
+				<styleUrl>#icon-1546-4E342E-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.019388299999946,52.0897158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jade 42</name>
+				<styleUrl>#icon-1546-000000-nodesc</styleUrl>
+				<Point>
+					<coordinates>5.518009399999983,52.3372461,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1546-000000-nodesc'>
+			<IconStyle>
+				<color>ff000000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-0097A7-nodesc'>
+			<IconStyle>
+				<color>ffA79700</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-0288D1-nodesc'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-4E342E-nodesc'>
+			<IconStyle>
+				<color>ff2E344E</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-558B2F-nodesc'>
+			<IconStyle>
+				<color>ff2F8B55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-673AB7-nodesc'>
+			<IconStyle>
+				<color>ffB73A67</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-7CB342-nodesc'>
+			<IconStyle>
+				<color>ff42B37C</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-817717-nodesc'>
+			<IconStyle>
+				<color>ff177781</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-9C27B0-nodesc'>
+			<IconStyle>
+				<color>ffB0279C</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-A52714-nodesc'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-AFB42B-nodesc'>
+			<IconStyle>
+				<color>ff2BB4AF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-C2185B-nodesc'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-E65100-nodesc'>
+			<IconStyle>
+				<color>ff0051E6</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-F57C00-nodesc'>
+			<IconStyle>
+				<color>ff007CF5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-F9A825-nodesc'>
+			<IconStyle>
+				<color>ff25A8F9</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1546-FFEA00-nodesc'>
+			<IconStyle>
+				<color>ff00EAFF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-006064-nodesc'>
+			<IconStyle>
+				<color>ff646000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-01579B-nodesc'>
+			<IconStyle>
+				<color>ff9B5701</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-1A237E-nodesc'>
+			<IconStyle>
+				<color>ff7E231A</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-3949AB-nodesc'>
+			<IconStyle>
+				<color>ffAB4939</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-795548-nodesc'>
+			<IconStyle>
+				<color>ff485579</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-880E4F-nodesc'>
+			<IconStyle>
+				<color>ff4F0E88</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-FBC02D-nodesc'>
+			<IconStyle>
+				<color>ff2DC0FB</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-FF5252-nodesc'>
+			<IconStyle>
+				<color>ff5252FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1603-FFD600-nodesc'>
+			<IconStyle>
+				<color>ff00D6FF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+	</Document>
+</kml>
